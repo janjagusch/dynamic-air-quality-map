@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Input data, taken from Kaggle
+input/*
+
+# Pickle (.p) files
+*.p
